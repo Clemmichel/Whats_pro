@@ -1,16 +1,21 @@
-# whatsapp_project
+# 📱 WhatsApp Clone
 
-A new Flutter project.
+Este é um projeto de clone do WhatsApp desenvolvido com **Flutter**, utilizando o **Firebase** como backend.
 
-## Getting Started
+## 🔥 Funcionalidades
 
-This project is a starting point for a Flutter application.
+Cadastro e login de usuários com e-mail e senha
 
-A few resources to get you started if this is your first Flutter project:
+Envio e recebimento de mensagens em tempo real
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Envio e visualização de imagens nas conversas
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Armazenamento de mensagens e arquivos com Firestore e Firebase Storage
+
+Interface inspirada no WhatsApp
+## 🛠 Tecnologias utilizadas
+
+- Flutter
+- Firebase Authentication
+- Cloud Firestore
+- Firebase Core
